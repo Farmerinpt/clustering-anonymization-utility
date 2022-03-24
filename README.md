@@ -18,5 +18,5 @@ DS3 (ε, δ)-Differential privacy with ε = 1 and δ = 0.001;
 
 DS4 (ε, δ)-Differential privacy with ε = 1 and δ = 0.0001.
 
-For the assessment of the quality of each partition in this work we choose three indices commonly used in practical applications: Silhouette, Davis-Bouldin and Calinski-Harabasz.  Broadly speaking, these indices estimate the clusters’ cohesion and the clusters’ separation, combining them to produce a quality measure. For Silhouette and Calinski-Harabasz the best partitions correspond to higher values whereas for Davis-Bouldin lower values are better.
+For the assessment of the quality of each partition we choose three indices commonly used in practical applications: Silhouette, Davis-Bouldin and Calinski-Harabasz.  Broadly speaking, these indices estimate the clusters’ cohesion and the clusters’ separation, combining them to produce a quality measure. For Silhouette and Calinski-Harabasz the best partitions correspond to higher values whereas for Davis-Bouldin lower values are better.
 
